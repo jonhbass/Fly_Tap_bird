@@ -1,2 +1,2 @@
 # Fly_Tap_bird
- Game estilo FlapBird
+ Game estilo FlapBird em desenvolvimento.
